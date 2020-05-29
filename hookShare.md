@@ -122,7 +122,7 @@ PIC技术（位置代码独立）：
 
 2）DYLD将系统函数的真实地址赋值到数据段中去 ，这就是 **符号的绑定** ，再回头回味一下 Fishhook中执行hook的函数名称  “**rebind_symbols**” ！
 
-<img src=""https://github.com/wondernick/ARTS/blob/master/image/fishhook%E5%AE%9E%E7%8E%B0%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86.png" style="zoom:30%;" />
+<imgsrc=""https://github.com/wondernick/ARTS/blob/master/image/fishhook%E5%AE%9E%E7%8E%B0%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86.png" />
 
 
 
