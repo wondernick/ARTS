@@ -34,7 +34,7 @@
 
 用户点击了课程列表中的某个课程，我们上传的是 这个课程的名称 event = "课程进入 中考英语（广东省卷）高分揭秘体验课程" 。
 
-<img src="/Users/zhangyang/Desktop/IMG_2243.PNG" style="zoom:30%;" />
+<img src="https://github.com/wondernick/ARTS/blob/master/image/IMG_2243.PNG" style="zoom:30%;" />
 
 
 
