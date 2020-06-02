@@ -34,7 +34,7 @@
 
 用户点击了课程列表中的某个课程，我们上传的是 这个课程的名称 event = "课程进入 中考英语（广东省卷）高分揭秘体验课程" 。
 
-<img src="/Users/zhangyang/Desktop/IMG_2243.PNG" style="zoom:30%;" />
+<img src="https://github.com/wondernick/ARTS/blob/master/image/IMG_2243.PNG" style="zoom:30%;" />
 
 
 
@@ -122,7 +122,8 @@ PIC技术（位置代码独立）：
 
 2）DYLD将系统函数的真实地址赋值到数据段中去 ，这就是 **符号的绑定** ，再回头回味一下 Fishhook中执行hook的函数名称  “**rebind_symbols**” ！
 
-![](/Users/zhangyang/Desktop/fishhook实现底层原理.png)
+<img src="https://github.com/wondernick/ARTS/blob/master/image/IMG_2243.PNG" style="zoom:30%;" />
+
 
 
 
